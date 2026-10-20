@@ -1,0 +1,7 @@
+experiment,precision_at_5,recall_at_5,hit_at_1,hit_at_5
+Random negatives,0.196,0.2841,0.3948,0.6293
+Hard negatives,0.1315,0.1984,0.2864,0.461
+Semi-hard negatives,0.2766,0.4049,0.5657,0.782
+ResNet50 fine-tuning,0.3153,0.4693,0.6613,0.8453
+Refreshed semi-hard mining (best),0.3528,0.5134,0.7178,0.8792
+Further fine-tuning (latest),0.3535,0.512,0.712,0.8766
